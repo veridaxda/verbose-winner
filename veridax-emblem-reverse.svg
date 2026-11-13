@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 193 166" role="img" aria-labelledby="title desc">
+  <title id="title">Veridax V emblem</title>
+  <desc id="desc">Global Fieldnotes artwork with an Antique Brass waypoint.</desc>
+  <path id="left-arm" fill="#F2E9DC" fill-rule="evenodd" d="M9.25 9.6 H50.8 L92.1 85.75 C80.0 92.45 69.6 101.3 62.3 110.4 Z"/>
+  <path id="right-arm" fill="#F2E9DC" fill-rule="evenodd" d="M105.35 78.8 L142.65 9.6 H181.85 C169.0 25.6 158.95 45.05 150.9 59.85 C140.0 56.85 127.35 62.7 123.4 71.7 C116.8 73.2 111.15 75.7 105.35 78.8 Z"/>
+  <path id="rising-arc" fill="#F2E9DC" fill-rule="evenodd" d="M65.55 117.25 C84.0 96.6 109.0 81.6 132.1 77.8 L132.3 81.1 C109.15 84.9 85.05 102.05 68.65 122.7 Z"/>
+  <path id="middle-of-v" fill="#F2E9DC" fill-rule="evenodd" d="M77.15 123.05 C88.9 106.8 108.7 91.95 129.1 87.15 C118.35 95.95 108.65 108.0 101.4 119.85 C93.4 121.05 84.1 122.15 77.15 123.05 Z"/>
+  <path id="tip-of-v" fill="#F2E9DC" fill-rule="evenodd" d="M72.65 129.7 L76.2 124.3 C83.7 123.9 91.9 123.65 99.45 123.3 C93.55 134.25 89.8 145.35 87.55 156.1 Z"/>
+  <path id="inner-meridian" fill="#F2E9DC" fill-rule="evenodd" d="M132.05 92.05 L134.2 93.55 C117.8 109.35 107.6 135.55 100.65 155.75 L96.7 155.6 C103.75 133.15 115.65 107.9 132.05 92.05 Z"/>
+  <path id="middle-meridian" fill="#F2E9DC" fill-rule="evenodd" d="M143.3 96.25 L145.9 96.4 C141.3 116.85 137.65 136.0 135.55 155.75 L134.05 155.75 C134.7 136.35 138.4 111.55 143.3 96.25 Z"/>
+  <path id="outer-meridian" fill="#F2E9DC" fill-rule="evenodd" d="M157.85 91.7 C169.65 107.0 178.8 131.15 184.05 155.75 L183.05 155.75 C178.1 131.9 169.15 108.05 157.85 91.7 Z"/>
+  <path id="upper-latitude" fill="#F2E9DC" fill-rule="evenodd" d="M162.0 78.6 C168.3 79.35 175.65 79.95 181.0 81.9 C174.4 81.15 167.9 80.85 161.85 81.05 Z"/>
+  <path id="lower-latitude" fill="#F2E9DC" fill-rule="evenodd" d="M75.95 124.1 C107.1 121.8 140.6 118.95 180.95 128.6 L180.8 129.35 C145.45 122.95 108.5 123.65 75.3 126.25 Z"/>
+  <path id="waypoint" fill="#B08B57" fill-rule="evenodd" d="M157.85 78.2 C157.85 85.43 151.93 91.3 144.55 91.3 C137.17 91.3 131.25 85.43 131.25 78.2 C131.25 70.97 137.17 65.1 144.55 65.1 C151.93 65.1 157.85 70.97 157.85 78.2 Z M152.25 78.2 C152.25 73.95 148.8 70.5 144.55 70.5 C140.3 70.5 136.85 73.95 136.85 78.2 C136.85 82.45 140.3 85.9 144.55 85.9 C148.8 85.9 152.25 82.45 152.25 78.2 Z"/>
+</svg>
